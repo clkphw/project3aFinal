@@ -12,3 +12,4 @@ werkzeug==1.0.1
 wtforms==2.3.3
 requests==2.24.0
 pygal==2.4.0
+datapackage==1.15.2
